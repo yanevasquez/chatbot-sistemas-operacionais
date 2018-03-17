@@ -55,7 +55,7 @@ A definição clássica de um chatbot é um programa de computador que processa 
 `sudo apt-get install idle3 
 `
   
- **Biblioteca Python Package Index (PyPI)**
+ **Biblioteca Python Package Index (PyPI):**
 
 `sudo apt-get install python3-pip
 `
