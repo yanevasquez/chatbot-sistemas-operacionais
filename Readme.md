@@ -16,10 +16,9 @@ A definição clássica de um chatbot é um programa de computador que processa 
 ## ATIVIDADE 1a - 12/03/2018:
  **Objetivo:** Informar 2 tutoriais da instalação do ambiente no linux
 
- >* [Link I ](https://www.youtube.com/watch?v=EhphaG6bk0M)
- >* [Link II ](https://www.youtube.com/watch?v=VtF-Ucj4aAM)
+ >* [Link I ](https://www.youtube.com/watch?v=7Nd831vv8aE)
+ >* [Link II ](https://www.youtube.com/watch?v=EhphaG6bk0M)
 
-- [x] Etapa finalizada
 
 ## ATIVIDADE 1b - 12/03/2018:
 
@@ -33,42 +32,38 @@ A definição clássica de um chatbot é um programa de computador que processa 
  >- [Referência](https://chatbotsjournal.com/25-chat-platforms-a-comparative-table-aeefc932eaff)
 
 ### Sistema de arquivos:
-
-
+>- [Referência]
 
 ### Thread: 
  >- [Referência](https://medium.com/slack-developer-blog/bringing-your-bot-into-threaded-messages-cd272a42924f)
 
 ### Entrada/saída:
-  >- [Referência]
-
-- [x] Parcialmente Finalizado
+ >- [Referência]
 
 
-## ATIVIDADE 2: 15/03/2018: 
+## ATIVIDADE 2: 16/03/2018: 
 
 **Objetivo:** Fazer um vídeo da instalação do ambiente: 
 
- >- [Tutorial da equipe]
+ >- [Tutorial da equipe](https://www.dropbox.com/s/frt1ropsqx9syw0/Projeto%20SO.mp4?dl=0)
  
 
 ## Comandos de Instalação:
 
-**Idle3:**
+**Idle3 do Python 3:**
 
 `sudo apt-get install idle3 
 `
   
- **Pip3:**
+ **Biblioteca Python Package Index (PyPI)**
 
 `sudo apt-get install python3-pip
 `
 
-**Instalação do chatbots:**
+**Instalação do chatterbot:**
 
  `pip install chatterbot
  `
 
-Chatbots utilizado: [Chatterbots](https://github.com/gunthercox/ChatterBot)
+[Chatterbots](https://github.com/gunthercox/ChatterBot)
 
-- [x] loading...
