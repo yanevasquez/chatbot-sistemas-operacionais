@@ -17,7 +17,7 @@ A definição clássica de um chatbot é um programa de computador que processa 
  **Objetivo:** Informar 2 tutoriais da instalação do ambiente no linux
 
  >* [Link I ](https://www.youtube.com/watch?v=EhphaG6bk0M)
- >* [Link II ](https://www.youtube.com/watch?v=EhphaG6bk0M)
+ >* [Link II ](https://www.youtube.com/watch?v=VtF-Ucj4aAM)
 
 - [x] Etapa finalizada
 
