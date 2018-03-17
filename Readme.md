@@ -35,6 +35,7 @@ A definição clássica de um chatbot é um programa de computador que processa 
 ### Sistema de arquivos:
 
 
+
 ### Thread: 
  >- [Referência](https://medium.com/slack-developer-blog/bringing-your-bot-into-threaded-messages-cd272a42924f)
 
