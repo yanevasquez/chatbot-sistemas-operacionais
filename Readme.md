@@ -67,5 +67,5 @@ A definição clássica de um chatbot é um programa de computador que processa 
  
 **Site do Chatbot utilizado no projeto:**
 
->- [Chatterbots](https://github.com/gunthercox/ChatterBot)
+ [Chatterbots](https://github.com/gunthercox/ChatterBot)
 
