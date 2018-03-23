@@ -40,7 +40,6 @@ A definição clássica de um chatbot é um programa de computador que processa 
 ### Entrada/saída:
  >- [Referência]
 
-
 ## ATIVIDADE 2: 16/03/2018: 
 
 **Objetivo:** Fazer um vídeo da instalação do ambiente: 
@@ -68,4 +67,14 @@ A definição clássica de um chatbot é um programa de computador que processa 
 **Site do Chatbot utilizado no projeto:**
 
  [Chatterbots](https://github.com/gunthercox/ChatterBot)
+ 
+ ## ATIVIDADE 3: 21/03/2018: 
+ 
+ **Objetivos:** Informar os componentes do sistema computacional bem como analisar o uso dos comandos: ps aux, jobs, fg, e bg com o   chatbot.Posteriormente exemplificar uma chamada indireta a System Call do SO.
+ 
+  [Comandos]
+  
+ 
+ 
+ 
 
