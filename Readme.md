@@ -1,4 +1,4 @@
-# Projeto de SO:  Chatbots em python 
+# Projeto de SO:  Chatbot em python 
 
 **Equipe:**
 
