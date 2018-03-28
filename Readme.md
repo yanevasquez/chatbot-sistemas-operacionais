@@ -61,8 +61,9 @@ A definição clássica de um chatbot é um programa de computador que processa 
 
 **Instalação do chatterbot:**
 
- `pip install chatterbot
+ `pip3 install chatterbot
  `
+ 
  **Executando o chatterbot:**
 
  `python3 arquivo.py
