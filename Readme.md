@@ -61,7 +61,7 @@ A definição clássica de um chatbot é um programa de computador que processa 
 
 **Instalação do chatterbot:**
 
- `pip install chatterbot
+ `pip3 install chatterbot
  `
  
 **Site do Chatbot utilizado no projeto:**
@@ -73,6 +73,9 @@ A definição clássica de um chatbot é um programa de computador que processa 
  **Objetivos:** Informar os componentes do sistema computacional bem como analisar o uso dos comandos: ps aux, jobs, fg, e bg com o   chatbot.Posteriormente exemplificar uma chamada indireta a System Call do SO.
  
   [Comandos]
+  
+ 
+  
   
  
  
