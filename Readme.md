@@ -4,8 +4,6 @@
 
 > Período: 2018.1
 
-### > Professora: Luciana Pereira Oliveira
-
 **Equipe:**
 
 [Janaína Felix](https://github.com/janainafelix)
