@@ -1,4 +1,10 @@
-# Projeto de SO: Chatbot 
+# Projeto de Sistemas Operacionais: Chatbot 
+ 
+> Profª: Luciana Pereira Oliveira 
+
+> Período: 2018.1
+
+### > Professora: Luciana Pereira Oliveira
 
 **Equipe:**
 
@@ -7,7 +13,6 @@
 [Karoline Lima](https://github.com/KarolineLima)
 
 [Yane Vasquez](https://github.com/YaneVasquez)
-
 
 ## Objetivo: 
 
@@ -37,17 +42,11 @@ Aplicar conceitos do Linux referentes a processos, memória, sistemas de arquivo
 **Instalação do chatterbot:**
 
  ` pip3 install chatterbot                  `
-
-
-**Executando o chatterbot:**
-
- ` python3 arquivo.py                       `
  
- 
-**Github do Chatbot utilizado no projeto:**
 
+                    
+>Referência de chatbot utilizado no projeto: [ChatterBot](https://github.com/gunthercox/ChatterBot)
 
- [Chatterbots](https://github.com/gunthercox/ChatterBot)
  
 
  
